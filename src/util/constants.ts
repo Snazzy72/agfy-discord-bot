@@ -1,0 +1,15 @@
+export const Constants = {
+  GameRequestChannel: "1237058752344100986",
+  BrokenLinkRequestChannel: "1237059688403697715",
+  MultiplayerGameRequestChannel: "1237058846669799425",
+  UpdateGameRequestChannel: "1237059768007262319",
+  NonEpicSteamGameRequestChannel: "1237059965051732010",
+  SoftwareRequestChannel: "1237059892846530560",
+  LogChannel: "1243831190557954049",
+  RequestsFilterLimit: 100,
+  AGFYUrl: "https://gamesforyou.co/",
+  SteamUrl: "https://store.steampowered.com/app/",
+  EpicUrl: "https://store.epicgames.com/en-US/p/",
+  SteamAPIEndpoint: "https://store.steampowered.com/api/appdetails?appids=",
+  EpicAPIEndpoint: "https://store-content-ipv4.ak.epicgames.com/api/en-US/content/products/",
+};
